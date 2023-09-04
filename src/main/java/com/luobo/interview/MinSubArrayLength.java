@@ -2,7 +2,7 @@ package com.luobo.interview;
 
 /**
  * leetcode 209
- * <a href="https://leetcode.cn/problems/minimum-size-subarray-sum/solutions/305704/chang-du-zui-xiao-de-zi-shu-zu-by-leetcode-solutio/">最小长度的连续子数组</a>
+ * <a href="https://leetcode.cn/problems/minimum-size-subarray-sum/description/">最小长度的连续子数组</a>
  */
 public class MinSubArrayLength {
     public static void main(String[] args) {
